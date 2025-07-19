@@ -33,3 +33,11 @@ Remote
 - git branch -d {branch name}
 
 - git push
+
+- git remote add origin {Repo url}
+
+- git fetch origin
+
+- git checkout -b {branch name} origin/{branch name}
+
+.gitignore
