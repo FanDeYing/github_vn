@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote
 
 # Commands
 
@@ -29,3 +31,5 @@ Conflict
 - git merge {branch name}
 
 - git branch -d {branch name}
+
+- git push
