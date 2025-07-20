@@ -1,14 +1,14 @@
 # Terms
 
-Repository (Repo):
+- Repository (Repo):
  => Kho chứa toàn bộ mã nguồn và lịch sử thay đổi. Có thể là local (trên máy bạn) hoặc remote (trên GitHub, GitLab...)                                            
-Branch:
+- Branch:
  =>	Nhánh phát triển độc lập của mã nguồn. Mỗi branch giống như một bản sao để thử nghiệm, phát triển tính năng.
-Conflict:
+- Conflict:
  => Xung đột xảy ra khi Git không thể tự quyết định giữ phần thay đổi nào giữa 2 nhánh. Bạn phải chỉnh sửa thủ công.
-Local:
+- Local:
  => Dự án Git nằm trên máy tính cá nhân của bạn. Chưa được đưa lên mạng.
-Remote:
+- Remote:
  => Dự án Git nằm trên dịch vụ như GitHub/GitLab. Bạn cần push để gửi mã từ local lên remote.
 
 # Commands
