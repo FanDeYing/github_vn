@@ -59,4 +59,4 @@
 => Lấy các thay đổi mới từ remote về máy local (chưa hợp nhất)
 
 - git checkout -b {branch name} origin/{branch name}:
-=> Tạo nhánh local từ nhánh remote (theo dõi nhánh từ xa)
+=> Tạo nhánh local từ nhánh remote (theo dõi nhánh từ xa)....
